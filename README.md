@@ -5,7 +5,6 @@
 📖estudando JavaScript, react, Angular e typescript
 <br>
 👩‍💻Cursos Completos: HTML e Css</h3>
-
 <div align="center">
   <a href="https://github.com/GustavoFayao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFayao&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -15,8 +14,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
+   src="https://user-images.githubusercontent.com/113376786/199149105-4928e951-f27d-4778-bd5e-5020268dcf34.png">
 </div>
-  
+
   ##
   
 <div> 
