@@ -2,7 +2,7 @@
   
 🧑‍💼Atualmente Pretendo trabalhar na área de Front-End
   <br>
-📖estudando JavaScript, react, Angular e typescript
+📖Estudando JavaScript, React, Angular e Typescript
 <br>
 👩‍💻Cursos Completos: HTML e Css</h3>
 <div align="center">
