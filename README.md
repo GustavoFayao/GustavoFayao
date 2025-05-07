@@ -1,14 +1,10 @@
 <h1>Olá eu me chamo Gustavo, e Bem Vindo ao meu perfil!!👋</h1
   
-🧑‍💼Atualmente Pretendo trabalhar na área de Front-End
   <br>
 📖Estudando JavaScript, React, Angular e Typescript
 <br>
-👩‍💻Cursos Completos: HTML e Css</h3>
 <div align="center">
   <a href="https://github.com/GustavoFayao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFayao&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFayao&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div style="display: inline_block"><br>
