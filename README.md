@@ -1,11 +1,6 @@
 <h1>Olá eu me chamo Gustavo, e Bem Vindo ao meu perfil!!👋</h1
   
-  <br>
-📖Estudando JavaScript, React, Angular e Typescript
-<br>
-<div align="center">
-  <a href="https://github.com/GustavoFayao">
-</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
